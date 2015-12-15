@@ -1,0 +1,9 @@
+E:\VS_General_Projects\MovingBubbleAnimation\MovingBubbleAnimation\bin\Release\MovingBubbleAnimation.exe.config
+E:\VS_General_Projects\MovingBubbleAnimation\MovingBubbleAnimation\obj\Release\MovingBubbleAnimation.csprojResolveAssemblyReference.cache
+E:\VS_General_Projects\MovingBubbleAnimation\MovingBubbleAnimation\obj\Release\MainWindow.baml
+E:\VS_General_Projects\MovingBubbleAnimation\MovingBubbleAnimation\obj\Release\MainWindow.g.cs
+E:\VS_General_Projects\MovingBubbleAnimation\MovingBubbleAnimation\obj\Release\App.g.cs
+E:\VS_General_Projects\MovingBubbleAnimation\MovingBubbleAnimation\obj\Release\MovingBubbleAnimation_MarkupCompile.cache
+E:\VS_General_Projects\MovingBubbleAnimation\MovingBubbleAnimation\obj\Release\MovingBubbleAnimation.g.resources
+E:\VS_General_Projects\MovingBubbleAnimation\MovingBubbleAnimation\obj\Release\MovingBubbleAnimation.Properties.Resources.resources
+E:\VS_General_Projects\MovingBubbleAnimation\MovingBubbleAnimation\obj\Release\MovingBubbleAnimation.csproj.GenerateResource.Cache
